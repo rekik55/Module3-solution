@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    border-color:#91817d; 
+}
+.navbar{
+    margin-top: 0%;
+    border: 0px;
+    
+}
+.navbar{
+    background-color: #290901;
+}
+
+li{
+    list-style: none;
+    border: 2px solid black;
+    background-color:#91817d ;
+    color:#f5dcd3;
+    
+}
+
+.container{  
+    background-color: #91817d;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+h1{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
